@@ -16,10 +16,7 @@ Tests? We've got 'em. We test like it's a sport, and we're going for gold! 🏅P
 
 <h2>Before you jump in, make sure you've got:</h2>
 
-Node.js installed (the Node alchemists recommend the latest stable version).
-A love for the command line, for it is your wand in this magical realm.
-The spirit of a gamer, ready to type out incantations (commands) with precision and speed.
-Running the Show
+Node.js installed (the Node alchemists recommend the latest stable version).<br>
 To kick things off, navigate to your project's mystical directory and conjure up the server with the ancient spell:
 
 ```bash
